@@ -34,7 +34,8 @@ Bienvenue dans l'application de gestion des employés. Cette application a été
 
 ## Page d'authentification :
 
-![image](https://github.com/ghita-baghdad/tp_JavaServer-Faces-JSF-/assets/147449053/049e8d8b-ee4a-439f-b8a6-d70b04a4c12c)
+![image](https://github.com/ghita-baghdad/tp_JavaServer-Faces-JSF-/assets/147449053/dd4afb43-8217-4f46-b96e-a33554301b6c)
+
 
 ## Les Differentes interfaces du projet :
 
